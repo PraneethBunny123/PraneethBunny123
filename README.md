@@ -4,7 +4,7 @@
 </p>
 
 
-<h3 align="center">Full-stack leaning frontend developer</h3>
+<h3 align="center">Frontend focused Full-Stack developer</h3>
 
 - 👯 I’m looking to collaborate on **Full-Stack, Frontend projects**
 

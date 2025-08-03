@@ -6,7 +6,7 @@
 
 <h3 align="center">Frontend focused Full-Stack developer</h3>
 
-- 👯 I’m looking to collaborate on **Full-Stack, Frontend projects**
+- 👯 I’m looking to collaborate on **Frontend, Full-Stack projects**
 
 - 👨‍💻 My portfolio [https://portfolio-praneeth39.vercel.app/](https://portfolio-praneeth39.vercel.app/)
 

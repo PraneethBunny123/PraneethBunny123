@@ -8,8 +8,6 @@
 
 - 👯 I’m looking to collaborate on **Frontend, Full-Stack projects**
 
-- 👨‍💻 My portfolio [https://portfolio-praneeth39.vercel.app/](https://portfolio-praneeth39.vercel.app/)
-
 - 💬 Ask me about **react, next, react-native**
 
 - 📫 How to reach me **gpraneeth.dev39@gmail.com**
